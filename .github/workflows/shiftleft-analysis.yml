@@ -34,6 +34,8 @@ jobs:
         # Scan auto-detects the languages in your project. To override uncomment the below variable and set the type
         # type: credscan,java
         # type: python
+          
+    - run: ls -l reports
 
     - name: Upload report
       uses: github/codeql-action/upload-sarif@v1
