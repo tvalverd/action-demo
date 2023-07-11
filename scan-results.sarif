@@ -93,7 +93,7 @@
                   "uri": "app.js"
                 },
                 "region": {
-                  "startLine": 10,
+                  "startLine": 7,
                   "startColumn": 5,
                   "endColumn": 57
                 }
